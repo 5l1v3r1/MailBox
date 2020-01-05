@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MailBox</string>
+    <string name="from">用户名</string>
+    <string name="pwd">密码</string>
+    <string name="to">收件人</string>
+    <string name="subj">主题</string>
+    <string name="enter_msg">请输入邮件内容…</string>
+    <string name="attachment">选择文件</string>
+    <string name="select_file">请选择文件…</string>
+    <string name="decode_file">解密文件</string>
+    <string name="encode_file">加密文件</string>
+    <string name="smtpHost">SMTP服务器</string>
+    <string name="smtpPort">SMTP端口</string>
+    <string name="send_mail">发送邮件</string>
+    <string name="file_pass_hint">请输入文件密码…</string>
+    <string name="message">邮件内容（支持HTML格式）</string>
+    <string name="filePwd">文件密码（长度必须为8的倍数）</string>
+    <string name="encryptHint">文件加密</string>
+    <string name="decryptHint">文件解密</string>
+</resources>
